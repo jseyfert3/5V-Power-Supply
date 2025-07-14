@@ -1,4 +1,4 @@
-25623461811435656
+25625214290086038
 140827181010
 WL-OCPT_DIP8_M-TYPE
 
@@ -6,6 +6,13 @@ WL-OCPT_DIP8_M-TYPE
 0
 8
 8
+1792863
+CONN_1792863_PXC
+
+1792863 
+0
+2
+2
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
