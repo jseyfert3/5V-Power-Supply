@@ -3330,7 +3330,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 26.3652 57.15 0)
 			(effects
 				(font
@@ -4691,7 +4691,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "fe6cee0a-e75f-4213-8add-fe201f115aac")
+			(uuid "fe6cee0a-e75f-4213-8add-fe201f115aad")
 		)
 		(instances
 			(project ""
@@ -5265,7 +5265,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 168.6052 57.15 0)
 			(effects
 				(font
@@ -5841,7 +5841,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "fe6cee0a-e75f-4213-8add-fe201f115aac")
+			(uuid "fe6cee0a-e75f-4213-8add-fe201f115aae")
 		)
 		(instances
 			(project ""
@@ -5908,7 +5908,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "fe6cee0a-e75f-4213-8add-fe201f115aac")
+			(uuid "fe6cee0a-e75f-4213-8add-fe201f115aaf")
 		)
 		(instances
 			(project ""
